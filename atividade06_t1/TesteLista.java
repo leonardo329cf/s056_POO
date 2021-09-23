@@ -5,7 +5,7 @@ public class TesteLista {
 	public static void main(String[] args) {
 		
 		FamiliaLista familia = new FamiliaLista("Joao", "Maria", 
-				"Cesar", "Douglas", "Gabrielle");
+				"Cesar", "Douglas", "Gabrielle", "Leonardo");
 //		FamiliaLista familia = new FamiliaLista("Joao", "Maria");
 		
 		Endereco endereco = new Endereco("Av Borges de Medeiros", 1001, 
